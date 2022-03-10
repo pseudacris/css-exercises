@@ -1,9 +1,19 @@
-p1 {
-    background-color: ffcccc;
+p {
+    background-color: #ffa7a7;
     font-family: Verdana, sans-serif;
 }
 
-#div {
-    font: blue;
+.third {
+    font-size: 24px;
+}
+
+#one {
+    color: rgb(18, 18, 161);
     font-size: 36px;
+}
+
+#another {
+    background-color: #80ff80;
+    font-size: 24px;
+    font-weight: bold;
 }
